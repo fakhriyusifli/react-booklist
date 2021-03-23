@@ -13,7 +13,7 @@ const BookList = () => {
             </ul>
         </div>
      ) : (
-        <div className = 'empty'>No books to read, reast.</div>
+        <div className = 'empty'>No books to read, sleep...</div>
      );
 }
  
